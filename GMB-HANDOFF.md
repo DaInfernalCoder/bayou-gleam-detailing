@@ -12,6 +12,10 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - Phone: +1 346-509-3342
 - Booking link: https://cal.com/sumitdatta/auto-detail-service
 - Domain: `bayougleam.shop`
+- GitHub repository: https://github.com/DaInfernalCoder/bayou-gleam-detailing
+- Vercel project: https://vercel.com/dainfernalcoders-projects/bayou-gleam-detailing
+- Private GMB registry: existing Bayou Gleam row updated through the synced master workbook
+- Private Drive assets: mirrored to the existing Bayou Gleam asset folder
 - Purchase approval: explicitly received from Sumit
 - Registration settings: one year, high privacy with consent, auto-renew off
 - Spaceship credentials: macOS Keychain only; never store them here or in the repository
@@ -55,19 +59,20 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - [x] Source licensed imagery and record sources.
 - [x] Build the static website.
 - [x] Run preflight and browser QA at desktop and phone widths.
-- [ ] Initialize git, commit, create GitHub repository, and push `main`.
-- [ ] Deploy through Vercel and connect GitHub.
+- [x] Initialize git, commit, create GitHub repository, and push `main`.
+- [x] Deploy through Vercel and connect GitHub.
 - [ ] Attach apex and `www`, configure DNS, and verify HTTPS.
-- [ ] Create and validate the GMB description and image pack.
+- [x] Create and validate the GMB description and image pack.
+- [x] Mirror the final GMB pack to the existing Drive asset folder.
 
 ## Current state
 
-`bayougleam.shop` was registered on July 16, 2026 and expires July 16, 2027. The verified registrar state is non-premium, high privacy, and auto-renew off. The full static site is built around the Bayou Gleam identity, the source record is complete, images are optimized, static preflight passes, and browser QA passes at 1440px, 1024px, and 390px.
+`bayougleam.shop` was registered on July 16, 2026 and expires July 16, 2027. The verified registrar state is non-premium, high privacy, and auto-renew off. The full static site is built around the Bayou Gleam identity, the source record is complete, images are optimized, static preflight passes, and browser QA passes at 1440px, 1024px, and 390px. GitHub and Vercel are connected, production is ready at the Vercel fallback URL, apex and `www` are attached, and Spaceship is delegated to Vercel nameservers. The validated GMB pack exists locally and is mirrored to the existing Drive asset folder.
 
 ## Blocker
 
-No current content or registrar blocker. GitHub CLI and Vercel CLI sessions are verified.
+Vercel nameserver propagation and custom-domain HTTPS issuance are pending.
 
 ## Exact next action
 
-Create the dedicated GitHub repository, deploy through Vercel, attach apex and `www`, and delegate DNS to Vercel.
+Verify authoritative nameservers, apex and `www` HTTPS, then update the GMB registry row to its final evidence-backed state.
