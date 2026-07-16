@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="556" height="112" viewBox="0 0 556 112" role="img" aria-labelledby="title">
+  <title id="title">Bayou Gleam</title>
+  <g fill="none" stroke-linecap="round">
+    <path d="M10 50C24 22 67 13 94 33C104 40 110 46 118 50C110 54 104 60 94 67C67 87 24 78 10 50Z" fill="#F1A33C"/>
+    <path d="M10 62C25 83 66 90 94 73C104 67 110 64 118 62" stroke="#DCE7E8" stroke-width="5" opacity=".84"/>
+    <path d="M17 56H118" stroke="#0D5367" stroke-width="4"/>
+    <path d="M26 69C46 78 72 77 94 66" stroke="#2D7182" stroke-width="3" opacity=".72"/>
+  </g>
+  <g fill="#DCE7E8">
+    <text x="145" y="54" font-family="Bricolage Grotesque, Arial Narrow, Arial, sans-serif" font-size="44" font-weight="750" letter-spacing="-1.5">BAYOU GLEAM</text>
+    <text x="148" y="82" font-family="IBM Plex Mono, Menlo, monospace" font-size="12" font-weight="500" letter-spacing="3.2">MOBILE AUTO DETAILING</text>
+  </g>
+</svg>
