@@ -61,9 +61,11 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - [x] Run preflight and browser QA at desktop and phone widths.
 - [x] Initialize git, commit, create GitHub repository, and push `main`.
 - [x] Deploy through Vercel and connect GitHub.
-- [ ] Attach apex and `www`, configure DNS, and verify HTTPS.
+- [x] Attach apex and `www` and configure Vercel DNS.
+- [ ] Verify public apex and `www` HTTPS after propagation in a later run.
 - [x] Create and validate the GMB description and image pack.
 - [x] Mirror the final GMB pack to the existing Drive asset folder.
+- [x] Update and verify the existing GMB master registry row.
 
 ## Current state
 
@@ -71,8 +73,8 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 
 ## Blocker
 
-Vercel nameserver propagation and custom-domain HTTPS issuance are pending.
+No action is required now. Public nameserver propagation and custom-domain HTTPS issuance are pending and must not keep this workflow open.
 
 ## Exact next action
 
-Verify authoritative nameservers, apex and `www` HTTPS, then update the GMB registry row to its final evidence-backed state.
+On a later explicit check, verify authoritative nameservers plus apex and `www` HTTPS. Do not poll or wait during this run.
