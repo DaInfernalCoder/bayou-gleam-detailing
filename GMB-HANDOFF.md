@@ -9,7 +9,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - Canonical name: Bayou Gleam Mobile Auto Detailing Houston Texas
 - Business type: mobile auto detailing
 - Primary market: Houston, Texas
-- Phone: +1 346-645-6236
+- Phone: +1 346-509-3342
 - Booking link: https://cal.com/sumitdatta/auto-detail-service
 - Domain: `bayougleam.shop`
 - Purchase approval: explicitly received from Sumit
@@ -38,7 +38,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 
 - `bayougleam.shop` registered with high privacy and auto-renew off.
 - Permanent repository at `/Users/sumit/Documents/websites & apps/bayou-gleam-detailing`.
-- Responsive, accessible, honest site using +1 346-645-6236 and the required booking link.
+- Responsive, accessible, honest site using +1 346-509-3342 and the required booking link.
 - Local preflight and desktop/mobile browser QA pass.
 - Clean `main` pushed to a dedicated GitHub repository and connected to Vercel.
 - Apex and `www` serve intended content over HTTPS.

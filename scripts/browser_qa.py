@@ -26,7 +26,7 @@ def main() -> None:
                     headerColor:
                         getComputedStyle(document.querySelector(".site-header")).color,
                     phoneLinks:
-                        document.querySelectorAll('a[href="tel:+13466456236"]').length,
+                        document.querySelectorAll('a[href="tel:+13465093342"]').length,
                     bookingLinks:
                         document.querySelectorAll(
                             'a[href="https://cal.com/sumitdatta/auto-detail-service"]'
