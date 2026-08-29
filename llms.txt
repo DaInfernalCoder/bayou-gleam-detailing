@@ -1,0 +1,16 @@
+# Bayou Gleam Mobile Car Detailing Houston
+
+> Appointment-based mobile car detailing in Houston, Texas.
+
+## Primary pages
+- [Homepage](https://bayougleam.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://bayougleam.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://bayougleam.shop/#local-detailing): How mobile detailing works in Houston.
+
+## Verified business facts
+- Business name: Bayou Gleam Mobile Car Detailing Houston
+- Primary service area: Houston, Texas
+- Telephone: +1 346-509-3342
+- Service: Appointment-based mobile car detailing
+- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Google review profile: https://g.page/r/CanDEZOemDqSEBM/review
