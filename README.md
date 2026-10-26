@@ -6,7 +6,7 @@ Dependency-free marketing website for Bayou Gleam Mobile Auto Detailing in Houst
 
 - Phone: +1 346-509-3342
 - Online appointments: https://cal.com/sumitdatta/auto-detail-service
-- Domain: https://bayougleam.shop
+- Domain: https://houstoncardetailingco.shop
 
 ## Local preview
 

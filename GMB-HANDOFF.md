@@ -12,7 +12,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - Street address: 12231 Beauregard Dr, Houston, TX 77024
 - Phone: +1 346-509-3342
 - Booking link: https://cal.com/sumitdatta/auto-detail-service
-- Domain: `bayougleam.shop`
+- Domain: `houstoncardetailingco.shop`
 - GitHub repository: https://github.com/DaInfernalCoder/bayou-gleam-detailing
 - Vercel project: https://vercel.com/dainfernalcoders-projects/bayou-gleam-detailing
 - Private GMB registry: existing Bayou Gleam row updated through the synced master workbook
@@ -41,7 +41,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 
 ## Acceptance criteria
 
-- `bayougleam.shop` registered with high privacy and auto-renew off.
+- `houstoncardetailingco.shop` registered with high privacy and auto-renew off.
 - Permanent repository at `/Users/sumit/Documents/websites & apps/bayou-gleam-detailing`.
 - Responsive, accessible, honest site using +1 346-509-3342 and the required booking link.
 - Local preflight and desktop/mobile browser QA pass.
@@ -52,7 +52,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 ## Task list
 
 - [x] Screen the Bayou Gleam name for conflicts.
-- [x] Confirm `bayougleam.shop` was available and non-premium.
+- [x] Confirm `houstoncardetailingco.shop` was available and non-premium.
 - [x] Obtain explicit purchase approval.
 - [x] Register the domain and verify privacy plus auto-renew settings.
 - [x] Confirm the phone number.
@@ -70,7 +70,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 
 ## Current state
 
-`bayougleam.shop` was registered on July 16, 2026 and expires July 16, 2027. The verified registrar state is non-premium, high privacy, and auto-renew off. The full static site is built around the Bayou Gleam identity, the source record is complete, images are optimized, static preflight passes, and browser QA passes at 1440px, 1024px, and 390px. GitHub and Vercel are connected, production is ready at the Vercel fallback URL, apex and `www` are attached, and Spaceship is delegated to Vercel nameservers. The validated GMB pack exists locally and is mirrored to the existing Drive asset folder.
+`houstoncardetailingco.shop` was registered on July 16, 2026 and expires July 16, 2027. The verified registrar state is non-premium, high privacy, and auto-renew off. The full static site is built around the Bayou Gleam identity, the source record is complete, images are optimized, static preflight passes, and browser QA passes at 1440px, 1024px, and 390px. GitHub and Vercel are connected, production is ready at the Vercel fallback URL, apex and `www` are attached, and Spaceship is delegated to Vercel nameservers. The validated GMB pack exists locally and is mirrored to the existing Drive asset folder.
 
 ## Blocker
 

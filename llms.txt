@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in Houston, Texas.
 
 ## Primary pages
-- [Homepage](https://bayougleam.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://bayougleam.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://bayougleam.shop/#local-detailing): How mobile detailing works in Houston.
+- [Homepage](https://houstoncardetailingco.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://houstoncardetailingco.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://houstoncardetailingco.shop/#local-detailing): How mobile detailing works in Houston.
 
 ## Verified business facts
 - Business name: Bayou Gleam Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://bayougleam.shop/services/)
-- [Interior Car Detailing](https://bayougleam.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://bayougleam.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://bayougleam.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://bayougleam.shop/services/headlight-restoration/)
-- [About](https://bayougleam.shop/about/)
-- [Contact](https://bayougleam.shop/contact/)
+- [Services](https://houstoncardetailingco.shop/services/)
+- [Interior Car Detailing](https://houstoncardetailingco.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://houstoncardetailingco.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://houstoncardetailingco.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://houstoncardetailingco.shop/services/headlight-restoration/)
+- [About](https://houstoncardetailingco.shop/about/)
+- [Contact](https://houstoncardetailingco.shop/contact/)
 <!-- SEO-NEXT:END -->
