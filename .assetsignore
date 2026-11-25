@@ -1,0 +1,15 @@
+.git
+.assetsignore
+wrangler.json
+worker.mjs
+policy.json
+.vercel
+node_modules
+.wrangler
+/SOURCES.md
+/README.md
+/.gitignore
+/GMB-HANDOFF.md
+/.vercelignore
+/scripts/browser_qa.py
+/scripts/preflight_site.py

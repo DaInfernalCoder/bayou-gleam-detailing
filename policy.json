@@ -1,0 +1,60 @@
+{
+  "config": {},
+  "domains": [
+    {
+      "name": "www.houstoncardetailingco.shop",
+      "apexName": "houstoncardetailingco.shop",
+      "redirect": "houstoncardetailingco.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    },
+    {
+      "name": "houstoncardetailingco.shop",
+      "apexName": "houstoncardetailingco.shop",
+      "redirect": null,
+      "redirectStatusCode": null,
+      "verified": true
+    },
+    {
+      "name": "www.bayougleam.shop",
+      "apexName": "bayougleam.shop",
+      "redirect": "houstoncardetailingco.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    },
+    {
+      "name": "bayougleam.shop",
+      "apexName": "bayougleam.shop",
+      "redirect": "houstoncardetailingco.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    }
+  ],
+  "files": [
+    "/about/index.html",
+    "/assets/favicon.svg",
+    "/assets/hero-wet-black-car.jpg",
+    "/assets/interior-care.jpg",
+    "/assets/interior-night.jpg",
+    "/assets/logo-light.svg",
+    "/assets/logo.svg",
+    "/assets/polish-reflection.jpg",
+    "/assets/waterline-detail.jpg",
+    "/assets/wheel-wash.jpg",
+    "/contact/index.html",
+    "/index.html",
+    "/llms.txt",
+    "/portfolio-components.css",
+    "/portfolio-components.js",
+    "/robots.txt",
+    "/script.js",
+    "/seo-pages.css",
+    "/services/exterior-car-detailing/index.html",
+    "/services/headlight-restoration/index.html",
+    "/services/index.html",
+    "/services/interior-car-detailing/index.html",
+    "/services/mobile-car-wash/index.html",
+    "/sitemap.xml",
+    "/styles.css"
+  ]
+}
