@@ -13,3 +13,4 @@ node_modules
 /.vercelignore
 /scripts/browser_qa.py
 /scripts/preflight_site.py
+.github
